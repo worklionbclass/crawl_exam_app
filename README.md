@@ -6,7 +6,5 @@
   git clone https://github.com/worklionbclass/crawl_exam_app
   cd crawl_exam_app
   bundle install
-  rake db:migrate
-  rake db:seed
   rails s
 ```
